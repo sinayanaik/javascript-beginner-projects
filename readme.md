@@ -24,7 +24,18 @@ example:
 
        the Math.random() function returns  a random number between 0 (inclusive),  and 1 (exclusive)  => [0,1)
 ```
-
+#### create a function to change background color
+```js
+function changeColors(){
+    const a = Math.floor(Math.random() * (255 - 0 + 1)) + 0;
+    const b = Math.floor(Math.random() * (255 - 0 + 1)) + 0;
+    const c = Math.floor(Math.random() * (255 - 0 + 1)) + 0;
+    
+    let UniqueColor = `rgb(${a},${b},${c})`;
+    document.getElementsByTagName("body")[0].style.backgroundColor =UniqueColor;
+    console.log(UniqueColor);
+}
+```
 #### About RGB colors
 
 RGB color --> rgb(red, green, blue).
