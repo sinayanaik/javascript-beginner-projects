@@ -1,4 +1,5 @@
 ![white](img/white.png)
+<img src="img/white.png" width="400px" height ="400px"></img>
 ![yellow](img/yellow.png)
 ![blue](img/blue.png)
 
