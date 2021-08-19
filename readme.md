@@ -1,9 +1,8 @@
-![white](img/white.png)
-<img src="img/white.png" width="400px" height ="400px"></img>
-![yellow](img/yellow.png)
-![blue](img/blue.png)
+<img src="img/white.png" width="400px" height ="300px"></img>
 
+<img src="img/yellow.png" width="400px" height ="300px"></img>
 
+<img src="img/blue.png" width="400px" height ="300px"></img>
 
 ### what i learned from this
 
