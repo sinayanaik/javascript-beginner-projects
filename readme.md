@@ -1,4 +1,4 @@
-![white](img/white.png)
+![white](img/white.png =400x400)
 ![yellow](img/yellow.png)
 ![blue](img/blue.png)
 
@@ -14,8 +14,9 @@ let random_number = Math.floor(Math.random() * (max - min + 1) ) + min;
 #### how it does it
 
 example:
-```suppose min = 50
-               max = 100
+```
+    suppose min = 50
+            max = 100
        then 
        random_number = Math.floor(0.6745499913954294 * (100 - 50 +1)) + 50 = 84
                        Math.floor(0.8457439278397998 * (100 - 50 +1)) + 50 = 93
