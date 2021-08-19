@@ -1,4 +1,4 @@
-![white](img/white.png =400x400)
+![white](img/white.png)
 ![yellow](img/yellow.png)
 ![blue](img/blue.png)
 
