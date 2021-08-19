@@ -33,7 +33,6 @@ function changeColors(){
     
     let UniqueColor = `rgb(${a},${b},${c})`;
     document.getElementsByTagName("body")[0].style.backgroundColor =UniqueColor;
-    console.log(UniqueColor);
 }
 ```
 #### About RGB colors
