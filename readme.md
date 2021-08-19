@@ -6,7 +6,7 @@
 
 ### what i learned from this
 
-1. how to generate a random number between two limits
+#### how to generate a random number between two limits
 
 ```js
 let random_number = Math.floor(Math.random() * (max - min + 1) ) + min;
@@ -25,13 +25,13 @@ example:
        the Math.random() function returns  a random number between 0 (inclusive),  and 1 (exclusive)  => [0,1)
 ```
 
-2. About RGB colors
+#### About RGB colors
 
 RGB color --> rgb(red, green, blue).
 
 Each parameter (red, green, and blue) defines the intensity of the color as an integer between 0 and 255.
 
-3. How to add a eventlistener to an element
+#### How to add a eventlistener to an element
 
 Here eventlistener is binded with the button
 ```html
